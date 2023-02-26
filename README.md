@@ -1,6 +1,4 @@
-# CSCI 5523 - Data Mining Project
-
-Rainfall Prediction
+# CSCI 5523 Project - Rainfall Prediction
 
 Group Members:
 Anish Shil,
